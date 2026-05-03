@@ -1,0 +1,2 @@
+Fitness = 0.257000
+Accuracy = 0.7430
